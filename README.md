@@ -1,4 +1,4 @@
-# Merit America Capstone 1
+# Vending-machine-app
 
 This app is for a Vending Machine. It allows customers to purchase products of their choice.
 
